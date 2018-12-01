@@ -1,0 +1,5 @@
+git config --global user.name "X13R0X"
+git config --global user.email m.depatie@yahoo.com
+tar xzf project.tar.gz
+cd project
+git init
